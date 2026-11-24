@@ -1,0 +1,25 @@
+test,value,variant,outcome,power
+H1 (ii) pooled,0.1,MCAR,power,0.542
+H1 (ii) pooled,0.125,MCAR,power,0.766
+H1 (ii) pooled,0.15,MCAR,power,0.896
+H1 (ii) pooled,0.2,MCAR,power,0.984
+H4a partner effect,0.1,MCAR,alpha .05,0.532
+H4a partner effect,0.1,MCAR,alpha .005,0.236
+H4a partner effect,0.15,MCAR,alpha .05,0.866
+H4a partner effect,0.15,MCAR,alpha .005,0.606
+H4a partner effect,0.2,MCAR,alpha .05,0.982
+H4a partner effect,0.2,MCAR,alpha .005,0.864
+H4b moderation,0.1,MCAR,power,0.324
+H4b moderation,0.15,MCAR,power,0.598
+H4b moderation,0.2,MCAR,power,0.82
+H4b moderation,0.25,MCAR,power,0.912
+H4a partner effect,0.1,MAR,alpha .05,0.566
+H4a partner effect,0.1,MAR,alpha .005,0.232
+H4a partner effect,0.15,MAR,alpha .05,0.84
+H4a partner effect,0.15,MAR,alpha .005,0.61
+H4a partner effect,0.2,MAR,alpha .05,0.96
+H4a partner effect,0.2,MAR,alpha .005,0.84
+H4b moderation,0.1,MAR,power,0.334
+H4b moderation,0.15,MAR,power,0.582
+H4b moderation,0.2,MAR,power,0.814
+H4b moderation,0.25,MAR,power,0.928

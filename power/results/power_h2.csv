@@ -1,0 +1,11 @@
+test,value,outcome,power
+H2 exposure-indicator,0.1,within,0.337
+H2 exposure-indicator,0.1,between,0.221
+H2 exposure-indicator,0.15,within,0.675
+H2 exposure-indicator,0.15,between,0.45
+H2 exposure-indicator,0.2,within,0.885
+H2 exposure-indicator,0.2,between,0.699
+H2 exposure-indicator,0.25,within,0.982
+H2 exposure-indicator,0.25,between,0.866
+H2 exposure-indicator,0.3,within,1
+H2 exposure-indicator,0.3,between,0.954
